@@ -1,0 +1,64 @@
+body{
+    background-image: url(img/background.jpg) ;
+    background-repeat: no-repeat;
+    color: aqua;
+    
+}
+main{
+    background: rgba(0,49,83,0.2);
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 18px;
+    margin-top: 50px;
+    
+    
+}
+header{
+    width: 900px;
+    min-height: 60px;
+    /*margin-top: 50px;
+    margin-bottom: 50px;*/
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    font-size: 1.8em;                                                                                                                                                                       ;
+    
+}
+#szubienica{
+    float: left;
+    width: 440px;
+    text-align: center;
+    min-height: 280px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+#alfabet{
+    float: left;
+    width: 430px;
+    text-align: center;
+    min-height: 280px;
+    margin-left: 10px;
+    
+}
+.litera{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    size: 50px;
+    padding: 5px;
+    margin: 5px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+    border: 3px solid activecaption;
+    float: left;
+    cursor: pointer;
+    border-radius: 25px;
+    background:  #660066;
+    
+}
+.litera:hover{
+    background:  #ff00ff;
+    color:  #ccffff;
+    border: 3px solid  #ffffff;
+}
